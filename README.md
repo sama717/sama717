@@ -7,7 +7,7 @@ Based in Egypt — open to relocation.
 
 **Currently**
 
-→ Building [Veloce](https://github.com/sama717) — car dealership & rental platform `Angular · ASP.NET Core · PostgreSQL`  
+→ Building [Veloce](https://github.com/sama717/Veloce) — car dealership & rental platform `Angular · ASP.NET Core · PostgreSQL`  
 → ITI Professional Development & BI-Infused CRM track `2025–2026`
 
 ---
@@ -21,9 +21,9 @@ Based in Egypt — open to relocation.
 
 | Project | Stack | |
 |---|---|---|
-| Veloce | Angular · ASP.NET Core · PostgreSQL | [→](https://github.com/sama717) |
+| Veloce | Angular · ASP.NET Core · PostgreSQL | [→](https://github.com/sama717/Veloce) |
 | BridgeIt | Next.js · React | [→](https://github.com/sama717/Bridge-It-Front-End) |
-| Aali Al Qimam Safety | Next.js · React | [→](https://aalialqimamsafety.com) |
+| Aali Al Qimam Safety | Next.js · React | [→](https://aali-al-qimam-safety-git-main-sama717s-projects.vercel.app) |
 
 ---
 
