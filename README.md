@@ -53,10 +53,11 @@ Based in Egypt — open to relocation.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
 
 </td>
+<td valign="top" width="25%">
+**Design** — <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" style="vertical-align:middle"/> 
+</td>
 </tr>
 </table>
-
-**Design** — <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" style="vertical-align:middle"/> Figma · UX Research · Design Systems
 
 ---
 
