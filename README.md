@@ -1,16 +1,35 @@
-## Hi there 👋
+![header](https://raw.githubusercontent.com/sama717/sama717/main/header.svg)
 
-<!--
-**sama717/sama717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+I build full-stack web applications with a focus on clean UI and solid engineering.
+Based in Egypt — open to relocation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Currently**
+
+→ Building [Veloce](https://github.com/sama717) — car dealership & rental platform `Angular · ASP.NET Core · PostgreSQL`  
+→ ITI Professional Development & BI-Infused CRM track `2025–2026`
+
+---
+
+**Stack**
+
+`TypeScript` `JavaScript` `React` `Next.js` `Angular` `Node.js` `ASP.NET Core` `C#` `PostgreSQL` `SQL Server` `MongoDB` `Figma`
+
+---
+
+**Projects**
+
+| Project | Stack | |
+|---|---|---|
+| Veloce | Angular · ASP.NET Core · PostgreSQL | [→](https://github.com/sama717) |
+| BridgeIt | Next.js · React | [→](https://github.com/sama717/Bridge-It-Front-End) |
+| Aali Al Qimam Safety | Next.js · React | [→](https://aalialqimamsafety.com) |
+
+---
+
+**Find me**
+
+[linkedin](https://linkedin.com/in/sama-farag) · [email](mailto:sama.b.farag.7@gmail.com) · [github](https://github.com/sama717)
