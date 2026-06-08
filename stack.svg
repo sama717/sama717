@@ -1,0 +1,47 @@
+<svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="280" fill="#0d1117"/>
+  <defs>
+    <style>
+      .label { font-family: 'Courier New', monospace; font-size: 11px; fill: #28c840; letter-spacing: 2px; text-transform: uppercase; }
+      .item { font-family: 'Courier New', monospace; font-size: 13px; fill: #aaa; }
+      .block { rx: 4; ry: 4; }
+    </style>
+  </defs>
+
+  <!-- Languages -->
+  <rect x="0" y="0" width="120" height="20" fill="#28c840" opacity="0.15" rx="3"/>
+  <text x="6" y="14" class="label">Languages</text>
+  <text x="0" y="38" class="item">TypeScript</text>
+  <text x="0" y="56" class="item">JavaScript</text>
+  <text x="0" y="74" class="item">C#</text>
+  <text x="0" y="92" class="item">SQL</text>
+
+  <!-- Frontend -->
+  <rect x="170" y="0" width="100" height="20" fill="#28c840" opacity="0.15" rx="3"/>
+  <text x="176" y="14" class="label">Frontend</text>
+  <text x="170" y="38" class="item">React</text>
+  <text x="170" y="56" class="item">Next.js</text>
+  <text x="170" y="74" class="item">Angular</text>
+  <text x="170" y="92" class="item">Tailwind CSS</text>
+
+  <!-- Backend -->
+  <rect x="340" y="0" width="100" height="20" fill="#28c840" opacity="0.15" rx="3"/>
+  <text x="346" y="14" class="label">Backend</text>
+  <text x="340" y="38" class="item">ASP.NET Core</text>
+  <text x="340" y="56" class="item">Node.js</text>
+  <text x="340" y="74" class="item">Express</text>
+
+  <!-- Database -->
+  <rect x="510" y="0" width="100" height="20" fill="#28c840" opacity="0.15" rx="3"/>
+  <text x="516" y="14" class="label">Database</text>
+  <text x="510" y="38" class="item">PostgreSQL</text>
+  <text x="510" y="56" class="item">SQL Server</text>
+  <text x="510" y="74" class="item">MongoDB</text>
+
+  <!-- Design -->
+  <rect x="0" y="130" width="80" height="20" fill="#28c840" opacity="0.15" rx="3"/>
+  <text x="6" y="144" class="label">Design</text>
+  <text x="0" y="168" class="item">Figma</text>
+  <text x="0" y="186" class="item">UX Research</text>
+  <text x="0" y="204" class="item">Design Systems</text>
+</svg>
