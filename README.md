@@ -14,7 +14,7 @@ Based in Egypt — open to relocation.
 
 **Stack**
 
-![stack](https://raw.githubusercontent.com/sama717/sama717/main/stack (1).svg)
+![stack](https://raw.githubusercontent.com/sama717/sama717/main/stack.svg)
 ---
 
 **Projects**
