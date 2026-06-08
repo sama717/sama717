@@ -74,5 +74,6 @@ Based in Egypt — open to relocation.
 ---
 
 **Find me**
+
 [LinkedIn](https://linkedin.com/in/sama-farag) · [Email](mailto:sama.b.farag.7@gmail.com) · [Github](https://github.com/sama717)
 
