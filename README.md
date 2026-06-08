@@ -57,6 +57,7 @@ Based in Egypt — open to relocation.
 </table>
 
 **Design** 
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" style="vertical-align:middle"/> Figma · UX Research · Design Systems
 
 ---
