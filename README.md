@@ -41,7 +41,7 @@ Based in Egypt — open to relocation.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" title="ASP.NET Core"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/sama717/sama717/main/express.svg" width="36" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express"/>
 
 </td>
 <td valign="top" width="25%">
