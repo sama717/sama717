@@ -54,7 +54,10 @@ Based in Egypt — open to relocation.
 
 </td>
 <td valign="top" width="25%">
-**Design** — <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" style="vertical-align:middle"/> 
+  
+**Design** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" style="vertical-align:middle"/> 
+
 </td>
 </tr>
 </table>
