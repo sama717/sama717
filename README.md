@@ -1,7 +1,5 @@
 ![header](https://raw.githubusercontent.com/sama717/sama717/main/header.svg)
 
-&nbsp;
-
 I build full-stack web applications with a focus on clean UI and solid engineering.
 Based in Egypt — open to relocation.
 
