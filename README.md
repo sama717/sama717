@@ -7,7 +7,7 @@ Based in Egypt — open to relocation.
 
 **Currently**
 
-→ Building [Veloce](https://github.com/sama717/Veloce) — car dealership & rental platform `Angular · ASP.NET Core · PostgreSQL`  
+→ Building [ARCLINE](https://github.com/sama717/ARCLINE) — an AI platform for SME (small and medium enterprise) business management, with four autonomous agents: Marketing, Logistics, Scout, and Business Advisor. `React · Node.Js/Express · PostgreSQL · LangChain · LangGraph`  
 → ITI Professional Development & BI-Infused CRM track `2025–2026`
 
 ---
