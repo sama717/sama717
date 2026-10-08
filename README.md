@@ -2,13 +2,13 @@
 
 I build full-stack web applications with a focus on clean UI and solid engineering.
 Based in Egypt — open to relocation.
+ITI 9-Month Graduate 
 
 ---
 
 **Currently**
 
 → Building [ARCLINE](https://github.com/sama717/ARCLINE) — an AI platform for SME (small and medium enterprise) business management, with four autonomous agents: Marketing, Logistics, Scout, and Business Advisor. `React · Node.Js/Express · PostgreSQL · LangChain · LangGraph`  
-→ ITI Professional Development & BI-Infused CRM track `2025–2026`
 
 ---
 
